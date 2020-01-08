@@ -1,0 +1,50 @@
+#country settings
+name=USA
+type=1
+#country population
+undereducated=5
+worker=10
+educated=5
+elite=2
+#country factory
+mine_coal=1
+mine_oil=1
+mine_material=1
+mine_U235=1
+farm=1
+factory=2
+high_tech=2
+bank=1
+power=1
+#national capital
+c_liquid=100.00
+c_solid=100.00
+c_bank=100.00
+#private capital
+p_liquid=100.00
+p_solid=100.00
+p_bank=100.00
+#political power in this country
+undereducated_pp=1
+worker_pp=1
+educated_pp=2
+elite_pp=5
+#stock_pile
+food=10
+material=10
+industrial=10
+high_tech=10
+oil=10
+energy=10
+coal=10
+U235=2
+nuclear=10
+#school
+high_school=2
+public_university=1
+private_university=1
+
+
+
+
+
